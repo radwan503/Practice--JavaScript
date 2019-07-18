@@ -1,4 +1,5 @@
 <h1>Details About Projet</h1>
+https://radwan503.github.io/Playing-With-Css-Variable-Using-JavaScript/
 
 1.querySelectorAll()-> HTML DOM querySelector() Method
 To return all the matches, use the querySelectorAll() method instead. If the selector matches an ID in document that is used several times (Note that an "id" should be unique within a page and should not be used more than once), it returns the first matching element.
